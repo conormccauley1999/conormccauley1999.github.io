@@ -1,3 +1,3 @@
-# MacAmhlaoibh.tech
+# MacAmhlaoibh.com
 
 A personal website.
