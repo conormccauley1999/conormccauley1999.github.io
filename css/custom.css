@@ -1,3 +1,8 @@
 .content {
 	padding-top: 20px;
 }
+
+a.link-no-style, a.link-no-style:hover {
+	text-decoration: none;
+	color: inherit;
+}
