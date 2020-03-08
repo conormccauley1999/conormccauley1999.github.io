@@ -1,0 +1,15 @@
+{
+    "cid": 123,
+    "messages": [
+        {
+        "id": 0,
+        "text": "Hello World!",
+        "timestamp": "2020-01-01 00:00:00"
+        },
+        {
+        "id": 1,
+        "text": "How are you?",
+        "timestamp": "2020-01-01 00:00:10"
+        }
+    ]
+}
